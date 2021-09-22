@@ -12,25 +12,30 @@ Para o desafio devem ser utilizadas as seguintes tecnologias :
 
 API: [https://developer.marvel.com](https://developer.marvel.com)
 
-Modo básico o App consiste em uma tela de lista de quadrinhos, uma tela de detalhe do quadrinho (comics) e uma funcionalidade de checkout dos quadrinhos adicionados.
+Modo básico: 
+O App consiste em: 
 
-Qualquer funcionalidade extra é permitida para agregar na solução.
-
-O layout você escolhe, seja criativo.
-A arquitetura você escolhe, seja esperto. 
-
-Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
-
-Não esqueça da otimização de velocidade da App nem da experiência/usabilidade do usuário.
+1. uma tela de lista de quadrinhos, 
+2. uma tela de detalhe do quadrinho (comics) e 
+3. uma funcionalidade de checkout dos quadrinhos adicionados.
 
 Fatores Negociais:
-
-* 10% dos quadrinhos carregados devem ser marcados como raros (aleatoriamente no próprio fonte ao carregar o REST). 
-* O checkout deve contemplar a opcão de código de desconto (pode validar mock, sem rest).
+* 10% dos quadrinhos carregados devem ser marcados como raros (aleatoriamente, no próprio fonte, ao carregar o REST).
+* O checkout deve contemplar a opção de código de desconto (pode validar mock, sem rest).
 * Faça um rest simulado (mock) para receber cupons de desconto na App.
-* (OPCIONAL) Existem dois tipos de cupons: Cupons raros e cupons comuns. Cupons comuns dão desconto somente para quadrinhos comuns enquanto raros podem ser usados em qualquer tipo.
+* FUNCIONALIDADE BÔNUS (opcional) Existem dois tipos de cupons:
+a. Cupons comuns, dão desconto somente para quadrinhos comuns
+b. Cupons raros: podem ser usados em qualquer tipo.
 
-Não existe prazo.
+Observações:
+Qualquer funcionalidade extra é permitida para agregar na solução - pode usar a nossa ou criar algo que ache legal!
+Você escolhe o layout e a arquitetura. Utilize muita criatividade e estratégia!
+A avaliação irá considerar a qualidade do código, modularidade, legibilidade, criatividade, quantidade de funcionalidades básicas e extras.
+
+Importante:
+Não esqueça da otimização de velocidade da App, nem da experiência/usabilidade do usuário.
+
+Prazo de envio: 7 dias corridos.
 
 # Arquitetura da solução/O que fazer
 
@@ -49,6 +54,6 @@ Entre os critérios de avaliação estão:
 
 ## Entrega
 
-Após concluir o desafio, adicionar o código ao seu Github em seu repositório de preferência.
+Após concluir o desafio, adicionar o código em seu repositório de preferência.
 
 “Sua única limitação é você mesmo”!
