@@ -24,8 +24,8 @@ Fatores Negociais:
 * O checkout deve contemplar a opção de código de desconto (pode validar mock, sem rest).
 * Faça um rest simulado (mock) para receber cupons de desconto na App.
 * FUNCIONALIDADE BÔNUS (opcional) Existem dois tipos de cupons:
-a. Cupons comuns, dão desconto somente para quadrinhos comuns
-b. Cupons raros: podem ser usados em qualquer tipo.
+1. Cupons comuns, dão desconto somente para quadrinhos comuns
+2. Cupons raros: podem ser usados em qualquer tipo.
 
 Observações:
 Qualquer funcionalidade extra é permitida para agregar na solução - pode usar a nossa ou criar algo que ache legal!
