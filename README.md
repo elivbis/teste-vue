@@ -46,3 +46,9 @@ Entre os critérios de avaliação estão:
 * Documentação de código
 * Documentação do projeto (readme)
 * Performance
+
+## Entrega
+
+Após concluir o desafio, adicionar esse código ao seu Github em seu repositório de preferência.
+
+“Sua única limitação é você mesmo”!
