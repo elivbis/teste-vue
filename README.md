@@ -49,6 +49,6 @@ Entre os critérios de avaliação estão:
 
 ## Entrega
 
-Após concluir o desafio, adicionar esse código ao seu Github em seu repositório de preferência.
+Após concluir o desafio, adicionar o código ao seu Github em seu repositório de preferência.
 
 “Sua única limitação é você mesmo”!
